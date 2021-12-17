@@ -23,7 +23,7 @@ This is web based movie search applications ,This web application is having foll
 - React
 - Mongoose
 
-## Step to Run-
+## Steps to run this application on local system-
 - Clone this repo.
 - Extract and cd to client folder
 - Run command 'npm install'
@@ -38,6 +38,8 @@ This is web based movie search applications ,This web application is having foll
 - Created playlist can be seen by the loggedin user.
 
 <br/>
+
+#### You are all set to use his project.
 
 ## Functionality-
 
@@ -68,4 +70,9 @@ This is web based movie search applications ,This web application is having foll
 ![created_playlist](https://user-images.githubusercontent.com/58850584/146530587-01e09479-7f36-4a40-b1fd-a3c459d82c0c.png)
 
 
-* Now you are all set to use this project.
+##### Thank you for reaching out till this point.
+<br/>
+
+Feel free to drop me a feedback,as there is always a room for learning.
+<br/>
+I will surely  work on your feedback.
