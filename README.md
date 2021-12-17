@@ -73,6 +73,6 @@ This is web based movie search applications ,This web application is having foll
 ##### Thank you for reaching out till this point.
 <br/>
 
-Feel free to drop me a feedback,as there is always a room for learning.
-<br/>
-I will surely  work on your feedback.
+P.S. Feel free to drop me a feedback,as there is always a room for learning.
+    <br/>
+    I will surely  work on your feedback.
