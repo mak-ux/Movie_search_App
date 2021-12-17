@@ -25,16 +25,17 @@ This is web based movie search applications ,This web application is having foll
 
 ## Step to Run-
 - Clone the rep.
-- Extract and CD to client folder
+- Extract and cd to client folder
 - Run command 'npm install'
-- Once the packeges will be install 
+- Once the packeges are installed 
 - Run command 'npm start'
 - Now go to 'http://localhost:3000/'
-- Once you are on home routes
+- Now you will prompted to home route
 - Go and register
 - Once you are registered,you can login.
-- The moment you will loggedin,you will prompted to new routes that is movie.
+- The moment you are loggedin,you will be prompted to new routes that is movie.
 - From this routes,one can search movie and create playlist from the list of movies.
+- Created playlist can be seen by the loggedin user.
 
 <br/>
 
