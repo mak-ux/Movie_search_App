@@ -24,7 +24,7 @@ This is web based movie search applications ,This web application is having foll
 - Mongoose
 
 ## Step to Run-
-- Clone the rep.
+- Clone this repo.
 - Extract and cd to client folder
 - Run command 'npm install'
 - Once the packeges are installed 
