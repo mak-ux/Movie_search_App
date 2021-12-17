@@ -16,7 +16,7 @@ const Signin = () => {
             }
             setUsername('');
             setPassword('');
-            axios.post("https://myblgapp.herokuapp.com/user/signin",users)
+            axios.post("http://localhost:8080/user/signin",users)
             .then(res=>{
                 history.push("/movie");
                 setMessage(res.data)})

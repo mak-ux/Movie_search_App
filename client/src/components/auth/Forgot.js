@@ -11,7 +11,7 @@ const Forgot = () => {
                 email
             }
             setEmail('');
-            axios.post("https://myblgapp.herokuapp.com/user/forgot",users)
+            axios.post("http://localhost:8080/user/forgot",users)
             .then(res=>setMessage(res.data))
             .catch(err=>{
                 console.log(err);

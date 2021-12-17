@@ -17,7 +17,7 @@ const Main_Logic = () => {
 
 		const response = await fetch(url);
 		const responseJson = await response.json();
-
+       /**only set the movie when we get some search value back,empty string may cause error */
 		if (responseJson.Search) {
 			setMovies(responseJson.Search);
 		}
@@ -26,6 +26,7 @@ const Main_Logic = () => {
 	useEffect(() => {
 		getMovieRequest(searchKey);
 	}, [searchKey]);
+	/**whenever search value changes ,I want to call get movie request */
 
 	useEffect(() => {
 		const movieFavourites = JSON.parse(

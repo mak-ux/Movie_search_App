@@ -11,7 +11,7 @@ const Reset = () => {
                 password
              }
             setPassword('');
-            axios.post("https://myblgapp.herokuapp.com/user/reset",users)
+            axios.post("http://localhost:8080/user/reset",users)
             .then(res=>setMessage(res.data))
             .catch(err=>{
                 console.log(err);
