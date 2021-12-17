@@ -39,9 +39,33 @@ This is web based movie search applications ,This web application is having foll
 
 <br/>
 
+## Functionality-
+
+### First Page
 
 
+![front_page](https://user-images.githubusercontent.com/58850584/146530230-ac4fba7d-41be-40c0-b550-b3b58938b207.png)
 
+### Login Page
+
+![signin](https://user-images.githubusercontent.com/58850584/146530329-50e8d0e8-bd74-4829-94a5-60e81615f971.png)
+
+### Signup page
+
+![signup](https://user-images.githubusercontent.com/58850584/146530395-9ae5cd39-1fd9-4461-a961-b691a8aa3014.png)
+
+### Search Page
+
+
+![search_page](https://user-images.githubusercontent.com/58850584/146530447-f15274b4-ef0a-4ca8-8eb8-9649c63cdf0d.png)
+
+### List of Movies page
+
+![list_of_movies](https://user-images.githubusercontent.com/58850584/146530509-2a44cd52-1549-41a8-856d-450f962115c1.png)
+
+### Created playlist
+
+![created_playlist](https://user-images.githubusercontent.com/58850584/146530587-01e09479-7f36-4a40-b1fd-a3c459d82c0c.png)
 
 
 * Now you are all set to use this project.
