@@ -30,6 +30,11 @@ This is web based movie search applications ,This web application is having foll
 - Once the packeges are installed 
 - Run command 'npm start'
 - Now go to 'http://localhost:3000/'
+- open new console in vscode and cd to server
+- Run command 'npm install'
+- Once the Node packages are installed 
+- Run command 'npm start'
+- At this point both client and servers are running.
 - Now you will prompted to home route
 - Go and register
 - Once you are registered,you can login.
