@@ -3,7 +3,6 @@
   
 </div>
 
-https://drive.google.com/file/d/1dx8e9vc0yaM6uUUGkS4AldF6gZSHnwrz/view
 
 ## About-
 This is web based movie search applications ,This web application is having following features.
